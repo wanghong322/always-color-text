@@ -4,9 +4,11 @@ const fr = require('./i18n/fr.json');
 const hi = require('./i18n/hi.json');
 const it = require('./i18n/it.json');
 const bd = require('./i18n/bd.json');
+const bd = require('./i18n/zh-cn.json');
 
-module.exports = {
-  en,
+module。exports = {
+  zh-cn,
+  en，
   es,
   fr,
   hi,
